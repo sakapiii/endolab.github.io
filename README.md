@@ -18,17 +18,17 @@
 
 <body>
 <header id="header">
-	<h1>ホームページサンプル株式会社のサイトです</h1>
+	<h1>遠藤研究室</h1>
   <!-- ロゴ -->
 	<div class="logo">
-		<a href="index.html">Company Name<br /><span>Your Company Slogan</span></a>
+		<a href="index.html">endo lab<br /><span>welcome</span></a>
 	</div>
 	<!-- / ロゴ -->
 	<!-- 電話番号+受付時間 -->
 	
   <div class="info">
 		<p class="tel"><span>電話:</span> 012-3456-7890</p>
-		<p class="open">受付時間: 平日 AM 10:00 ・PM 5:00</p>5
+		<p class="open">気軽に相談に来てください</p>5
 	</div>
 	<!-- / 電話番号+受付時間 -->
 </header>
@@ -40,10 +40,10 @@
 		<div class="panel">   
     	<ul>
     		<li class="active"><a href="index.html"><strong>トップページ</strong><span>Top</span></a></li>
-				<li><a href="subpage.html"><strong>ごあいさつ</strong><span>Greeting</span></a></li>
-				<li><a href="subpage.html"><strong>サービス概要</strong><span>Service</span></a></li>
-				<li><a href="subpage.html"><strong>弊社の取り組み</strong><span>Approach</span></a></li>
-				<li><a href="subpage.html"><strong>会社情報</strong><span>Company</span></a></li>
+				<li><a href="subpage.html"><strong>活動内容</strong><span>Activities</span></a></li>
+				<li><a href="subpage.html"><strong>研究概要</strong><span>Researches</span></a></li>
+				<li><a href="subpage.html"><strong>メンバー</strong><span>Members</span></a></li>
+				<li><a href="subpage.html"><strong>ギャラリー</strong><span>Pictures</span></a></li>
 				<li class="last"><a href="subpage.html"><strong>お問い合わせ</strong><span>Contact</span></a></li>
 			</ul>   
     </div>
@@ -57,8 +57,8 @@
 	<div id="mainBanner">
 		<img src="images/mainImg.jpg" alt="" width="960">
     <div class="slogan">
-			<h2>自然との調和を目指す企業です</h2>
-			<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。<br>革新的な技術で世の中を動かす企業を目指します。</p>
+			<h2>歴史敵建造物の保存に携わる研究室です</h2>
+			<p>遠藤研究室では主に構造的観点から歴史的建造物の研究を行っています。<br>がんばります</p>
 		</div>
 	</div>
 	<!-- / メイン画像 -->
@@ -68,7 +68,7 @@
 		<article class="grid">
       <div class="box">
 				<img src="images/top_m1.png" width="280" height="60" alt="">
-				<h3>自然との調和を目指す企業です</h3>
+				<h3>主な活動</h3>
 				<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
 				<p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
       </div>
@@ -76,7 +76,7 @@
 		<article class="grid">
 			<div class="box">
       	<img src="images/top_m2.png" width="280" height="60" alt="">
-				<h3>自然との調和を目指す企業です</h3>
+				<h3>実績</h3>
 				<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
 				<p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
       </div>
@@ -84,7 +84,7 @@
     <article class="grid">
     	<div class="box">
 				<img src="images/top_m3.png" width="280" height="60" alt="">
-				<h3>自然との調和を目指す企業です</h3>
+				<h3>About us</h3>
 				<p>ホームページサンプル株式会社では最新技術と自然との調和を目指します。革新的な技術で世の中を動かす企業を目指します。</p>
 				<p class="readmore"><a href="subpage.html">詳細を確認する</a></p>
 			</div>
@@ -101,7 +101,7 @@
 		<div id="info" class="grid">
 			<!-- ロゴ -->
 			<div class="logo">
-				<a href="index.html">Company Name<br /><span>Your Company Slogan</span></a>
+				<a href="index.html">遠藤研究室<br /><span>welcome</span></a>
 			</div>
 			<!-- / ロゴ -->
 			<!-- 電話番号+受付時間 -->
@@ -114,21 +114,16 @@
 		<!-- / 左側 -->
 		<!-- 右側 ナビゲーション -->
 		<ul class="footnav">
-			<li><a href="subpage.html">eco・環境事業</a></li>
-			<li><a href="subpage.html">コンピュータ事業</a></li>
-			<li><a href="subpage.html">飲食店事業</a></li>
-			<li><a href="subpage.html">介護・医療事業</a></li>
-			<li><a href="subpage.html">ごあいさつ</a></li>
-			<li><a href="subpage.html">サービス概要</a></li>
-			<li><a href="subpage.html">会社情報</a></li>
-			<li><a href="subpage.html">お問い合わせ</a></li>
-			<li><a href="subpage.html">サイトマップ</a></li>
+			<li><a href="subpage.html">活動内容</a></li>
+			<li><a href="subpage.html">研究概要</a></li>
+			<li><a href="subpage.html">メンバー</a></li>
+			<li><a href="subpage.html">ギャラリー</a></li>
 		</ul>
 		<!-- / 右側 ナビゲーション -->
 	</div>
 </footer>
 	<!-- / フッター -->
-	<address>Copyright(c) 2013 Sample Inc. All Rights Reserved. Design by <a href="http://f-tpl.com" target="_blank" rel="nofollow">http://f-tpl.com</a></address>
+	<address>Copyright(c) 2020 Endo lab. All Rights Reserved. Design by <a href="http://f-tpl.com" target="_blank" rel="nofollow">http://f-tpl.com</a></address>
 
 </body>
 </html>
